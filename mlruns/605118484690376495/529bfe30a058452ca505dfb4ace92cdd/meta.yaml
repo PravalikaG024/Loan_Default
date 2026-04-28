@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Loan_Default/mlruns/605118484690376495/529bfe30a058452ca505dfb4ace92cdd/artifacts
+end_time: 1777280213526
+entry_point_name: ''
+experiment_id: '605118484690376495'
+lifecycle_stage: active
+run_id: 529bfe30a058452ca505dfb4ace92cdd
+run_name: Logistic L1
+run_uuid: 529bfe30a058452ca505dfb4ace92cdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777280071987
+status: 3
+tags: []
+user_id: Pravalika

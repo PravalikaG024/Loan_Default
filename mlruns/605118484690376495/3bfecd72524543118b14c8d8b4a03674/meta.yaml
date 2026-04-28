@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Loan_Default/mlruns/605118484690376495/3bfecd72524543118b14c8d8b4a03674/artifacts
+end_time: 1777280246873
+entry_point_name: ''
+experiment_id: '605118484690376495'
+lifecycle_stage: active
+run_id: 3bfecd72524543118b14c8d8b4a03674
+run_name: XGBoost Tuned
+run_uuid: 3bfecd72524543118b14c8d8b4a03674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777280213535
+status: 3
+tags: []
+user_id: Pravalika
