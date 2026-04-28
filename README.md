@@ -121,6 +121,9 @@ mlflow ui
 
 Open: `http://localhost:5001` — view all runs, metrics, parameters, and SHAP artifacts.
 
+<img width="753" height="404" alt="image" src="https://github.com/user-attachments/assets/a2867a2c-3fcb-4b07-98b1-105e4e600bc0" />
+
+
 ---
 
 ## 🐳 Docker Deployment
