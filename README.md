@@ -271,4 +271,4 @@ pip install -r requirements.txt
 ## 👤 Author
 
 **Givaji Pravalika**  
-Final Assignment — Loan Default Prediction
+Loan Default Prediction
