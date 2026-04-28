@@ -5,7 +5,7 @@ import pandas as pd
 app = Flask(__name__)
 
 # FIX PATH
-model = pickle.load(open("models/random_forest.pkl", "rb"))
+model = pickle.load(open("model.pkl", "rb"))
 
 @app.route("/")
 def home():
