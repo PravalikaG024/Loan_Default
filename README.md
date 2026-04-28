@@ -121,7 +121,8 @@ mlflow ui
 
 Open: `http://localhost:5001` — view all runs, metrics, parameters, and SHAP artifacts.
 
-<img width="753" height="404" alt="image" src="https://github.com/user-attachments/assets/a2867a2c-3fcb-4b07-98b1-105e4e600bc0" />
+<img width="940" height="504" alt="image" src="https://github.com/user-attachments/assets/deadf0c0-d880-4b24-86f5-31d1455518cf" />
+
 
 
 ---
