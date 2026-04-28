@@ -1,6 +1,6 @@
 # 🏦 Loan Default Prediction
 
-> An end-to-end machine learning system to predict whether a borrower will default on a loan — with explainability, drift monitoring, experiment tracking, and a REST API, all containerized with Docker.
+> An end-to-end machine learning system to predict whether a borrower will default on a loan — with explainability, drift monitoring, experiment tracking, and a Flask, all containerized with Docker.
 
 ---
 
